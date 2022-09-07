@@ -1,4 +1,4 @@
-# C language
+# C++ language
 Activities during C course at university, are:
   1. Weighted average
   2. Sum of predecessors
